@@ -1,6 +1,6 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-09-26T09:27:47",
+  "generated_at": "2026-10-08T14:37:54",
   "vehicle_count": 141,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2011 Ford Edge SEL",
       "vin": "2FMDK4JC1BBA48874",
       "stock": "HS26861",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/8a13c4b6031e.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2011/ford/edge/vernon/bc/71363929/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2011/ford/edge/vernon/bc/71363929/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,14 +19,17 @@
       "odometer_km": 266241,
       "year": 2011,
       "make": "Ford",
-      "model": "Edge SEL",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2014 RAM 2500 ST",
       "vin": "3C6TR5CTXEG225140",
       "stock": "HS28919",
       "color": "White",
+      "trim": "ST",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/952fccf32652.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2014/ram/2500/vernon/bc/71400575/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2014/ram/2500/vernon/bc/71400575/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -35,14 +39,17 @@
       "odometer_km": 123008,
       "year": 2014,
       "make": "RAM",
-      "model": "2500 ST",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Juke SL AWD, Moonroof, 360-degree camera",
       "vin": "JN8AF5MV9FT555630",
       "stock": "HS00452",
       "color": "Grey",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/404278e5085c.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2015/nissan/juke/vernon/bc/69701325/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2015/nissan/juke/vernon/bc/69701325/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -52,14 +59,17 @@
       "odometer_km": 195841,
       "year": 2015,
       "make": "Nissan",
-      "model": "Juke SL AWD, Moonroof, 360-degree camera",
-      "condition": "used"
+      "model": "Juke",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Forester 2.5i AWD, Bluetooth, backup camera, auto",
       "vin": "JF2SJCBC2FH580104",
       "stock": "HS00508",
       "color": "White",
+      "trim": "2.5i",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/90335a4cb55d.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2015/subaru/forester/vernon/bc/71295271/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2015/subaru/forester/vernon/bc/71295271/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -69,14 +79,17 @@
       "odometer_km": 153090,
       "year": 2015,
       "make": "Subaru",
-      "model": "Forester 2.5i AWD, Bluetooth, backup camera, auto",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2016 Audi A3 Sedan 2.0T Progressiv Quattro, leather, Apple Carplay",
       "vin": "WAUE8GFF2G1104915",
       "stock": "HS26974",
       "color": "Silver",
+      "trim": "2.0T Progressiv Quattro",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/c6c2ead7bc12.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2016/audi/a3-sedan/vernon/bc/70810691/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2016/audi/a3-sedan/vernon/bc/70810691/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -86,14 +99,17 @@
       "odometer_km": 130987,
       "year": 2016,
       "make": "Audi",
-      "model": "A3 Sedan 2.0T Progressiv Quattro, leather, Apple Carplay",
-      "condition": "used"
+      "model": "A3",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport Ultimate2.0t, AWD, leather, heated seats",
       "vin": "5XYZUDLA1JG551427",
       "stock": "HS46596",
       "color": "Red",
+      "trim": "Sport Ultimate2.0t",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/97d7960528af.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2018/hyundai/santa-fe-sport/vernon/bc/71046186/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2018/hyundai/santa-fe-sport/vernon/bc/71046186/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -103,14 +119,17 @@
       "odometer_km": 202174,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Ultimate2.0t, AWD, leather, heated seats",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2018 Mazda CX-3 GT, I-Activ AWD, Heated Seats, LED Fog Lamps",
       "vin": "JM1DKFD78J0325938",
       "stock": "HS28884",
       "color": "Red",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/9fe608bf4fc3.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2018/mazda/cx-3/vernon/bc/71295270/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2018/mazda/cx-3/vernon/bc/71295270/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -120,14 +139,17 @@
       "odometer_km": 80874,
       "year": 2018,
       "make": "Mazda",
-      "model": "CX-3 GT, I-Activ AWD, Heated Seats, LED Fog Lamps",
-      "condition": "used"
+      "model": "CX-3",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage LX AWD, 2.4L, Apple CarPlay",
       "vin": "KNDPMCAC9K7522827",
       "stock": "HS46635",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/1c46a5973283.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2019/kia/sportage/vernon/bc/70735444/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2019/kia/sportage/vernon/bc/70735444/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -137,14 +159,17 @@
       "odometer_km": 71581,
       "year": 2019,
       "make": "Kia",
-      "model": "Sportage LX AWD, 2.4L, Apple CarPlay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sportage LX AWD, 2.4L, Apple CarPlay",
       "vin": "KNDPMCAC9L7646582",
       "stock": "ICSC570",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/27f17290bb03.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2020/kia/sportage/vernon/bc/69440776/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2020/kia/sportage/vernon/bc/69440776/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -154,14 +179,17 @@
       "odometer_km": 162009,
       "year": 2020,
       "make": "Kia",
-      "model": "Sportage LX AWD, 2.4L, Apple CarPlay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Outback Premier, Leather, Nav, AWD",
       "vin": "4S4BTDPC8L3199501",
       "stock": "HS46473",
       "color": "Blue",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/2887926ecef8.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2020/subaru/outback/vernon/bc/70726685/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2020/subaru/outback/vernon/bc/70726685/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -171,14 +199,17 @@
       "odometer_km": 101252,
       "year": 2020,
       "make": "Subaru",
-      "model": "Outback Premier, Leather, Nav, AWD",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Outback Convenience",
       "vin": "4S4BTDAC3L3111754",
       "stock": "HS57282",
       "color": "Silver",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/07acd9018825.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2020/subaru/outback/vernon/bc/70954068/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2020/subaru/outback/vernon/bc/70954068/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -188,14 +219,17 @@
       "odometer_km": 73503,
       "year": 2020,
       "make": "Subaru",
-      "model": "Outback Convenience",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Venza Limited, AWD, Heated Leather, Sunroof",
       "vin": "JTEAAAAH7MJ074829",
       "stock": "HS46891",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/7d01f84cb9ee.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2021/toyota/venza/vernon/bc/71295273/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2021/toyota/venza/vernon/bc/71295273/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -205,14 +239,17 @@
       "odometer_km": 77919,
       "year": 2021,
       "make": "Toyota",
-      "model": "Venza Limited, AWD, Heated Leather, Sunroof",
-      "condition": "used"
+      "model": "Venza",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Compass Trailhawk, 4x4, 2.4l,  Selec-Terrain, Heated Seats",
       "vin": "3C4NJDDB0NT178555",
       "stock": "HS54696",
       "color": "Black",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/69a8f888bac8.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2022/jeep/compass/vernon/bc/70485343/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2022/jeep/compass/vernon/bc/70485343/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -222,14 +259,17 @@
       "odometer_km": 55012,
       "year": 2022,
       "make": "Jeep",
-      "model": "Compass Trailhawk, 4x4, 2.4l,  Selec-Terrain, Heated Seats",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru WRX Sport-tech,2.4L turbo, 6-speed manual",
       "vin": "JF1VBAL65N9002678",
       "stock": "P900267",
       "color": "Orange",
+      "trim": "Sport-tech",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/3734d158d70b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2022/subaru/wrx/vernon/bc/71236240/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2022/subaru/wrx/vernon/bc/71236240/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -239,14 +279,17 @@
       "odometer_km": 87958,
       "year": 2022,
       "make": "Subaru",
-      "model": "WRX Sport-tech,2.4L turbo, 6-speed manual",
-      "condition": "used"
+      "model": "WRX",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan Comfortline R-Line Black Edition, 4MOTION",
       "vin": "3VV8B7AX4NM010442",
       "stock": "HS47251",
       "color": "Silver",
+      "trim": "Comfortline R-Line Black Edition",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ae08e08d641a.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2022/volkswagen/tiguan/vernon/bc/71236241/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2022/volkswagen/tiguan/vernon/bc/71236241/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -256,14 +299,17 @@
       "odometer_km": 99008,
       "year": 2022,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition, 4MOTION",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2023 Buick Encore GX Preferred Pkg, Heated Leather Seats",
       "vin": "KL4MMCSL9PB088070",
       "stock": "HS46788",
       "color": "Grey",
+      "trim": "Preferred Pkg",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ce42dbb5ffe9.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2023/buick/encore-gx/vernon/bc/70838802/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2023/buick/encore-gx/vernon/bc/70838802/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -273,14 +319,17 @@
       "odometer_km": 36104,
       "year": 2023,
       "make": "Buick",
-      "model": "Encore GX Preferred Pkg, Heated Leather Seats",
-      "condition": "used"
+      "model": "Encore GX",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Expedition King Ranch",
       "vin": "1FMJU1P85PEA32011",
       "stock": "ICOLEA3",
       "color": "White",
+      "trim": "King Ranch",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/3cb8870e42d1.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2023/ford/expedition/vernon/bc/71304388/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2023/ford/expedition/vernon/bc/71304388/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -290,14 +339,17 @@
       "odometer_km": 22897,
       "year": 2023,
       "make": "Ford",
-      "model": "Expedition King Ranch",
-      "condition": "used"
+      "model": "Expedition",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Compass Trailhawk 4x4Selec-Terrain, Heated Seats",
       "vin": "3C4NJDDN0PT557407",
       "stock": "HS46048",
       "color": "Grey",
+      "trim": "Trailhawk 4x4Selec-Terrain",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ca7623a00415.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2023/jeep/compass/vernon/bc/69282551/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2023/jeep/compass/vernon/bc/69282551/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -307,14 +359,17 @@
       "odometer_km": 88312,
       "year": 2023,
       "make": "Jeep",
-      "model": "Compass Trailhawk 4x4Selec-Terrain, Heated Seats",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Cherokee 4xe 4XE Hybrid 4x4 8 spd auto",
       "vin": "1C4RJYB61PC600863",
       "stock": "ICOSC60",
       "color": "White",
+      "trim": "4xe 4XE Hybrid 8 spd auto",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ef9b2b5c0763.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2023/jeep/grand-cherokee-4xe/vernon/bc/67603379/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2023/jeep/grand-cherokee-4xe/vernon/bc/67603379/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -324,14 +379,17 @@
       "odometer_km": 16323,
       "year": 2023,
       "make": "Jeep",
-      "model": "Grand Cherokee 4xe 4XE Hybrid 4x4 8 spd auto",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte Sedan EX+,2.0L, Apple CarPlay, Heated seats",
       "vin": "3KPF34AD8PE616105",
       "stock": "HS25918",
       "color": "Black",
+      "trim": "EX+",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/0e19389f4f68.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2023/kia/forte-sedan/vernon/bc/71044117/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2023/kia/forte-sedan/vernon/bc/71044117/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -341,14 +399,17 @@
       "odometer_km": 73316,
       "year": 2023,
       "make": "Kia",
-      "model": "Forte Sedan EX+,2.0L, Apple CarPlay, Heated seats",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Seltos EX AWD CVT Apple CarPlay & Android Auto",
       "vin": "KNDEUCAA6P7450448",
       "stock": "HS44907",
       "color": "Grey",
+      "trim": "EX Apple CarPlay & Android Auto",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/41d2da0bc6bb.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2023/kia/seltos/vernon/bc/69478985/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2023/kia/seltos/vernon/bc/69478985/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -358,14 +419,17 @@
       "odometer_km": 42016,
       "year": 2023,
       "make": "Kia",
-      "model": "Seltos EX AWD CVT Apple CarPlay & Android Auto",
-      "condition": "used"
+      "model": "Seltos",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 2500 Limited 4x4 Crew Cab 6'4 Box",
       "vin": "3C6UR5SL9PG556221",
       "stock": "OLC5562",
       "color": "White",
+      "trim": "Limited 6'4 Box",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/1cd9c025d98c.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2023/ram/2500/vernon/bc/70225538/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2023/ram/2500/vernon/bc/70225538/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -375,14 +439,17 @@
       "odometer_km": 89844,
       "year": 2023,
       "make": "RAM",
-      "model": "2500 Limited 4x4 Crew Cab 6'4 Box",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Venue Preferred Pkg, Heated Leather Seats",
       "vin": "KMHRC8A32RU293911",
       "stock": "HS28918",
       "color": "Grey",
+      "trim": "Preferred Pkg",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/9c6672643f81.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2024/hyundai/venue/vernon/bc/71304389/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2024/hyundai/venue/vernon/bc/71304389/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -392,14 +459,17 @@
       "odometer_km": 44042,
       "year": 2024,
       "make": "Hyundai",
-      "model": "Venue Preferred Pkg, Heated Leather Seats",
-      "condition": "used"
+      "model": "Venue",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Compass North 4x4, Nav, USB-C",
       "vin": "3C4NJDBN9RT589973",
       "stock": "ICKV589",
       "color": "Blue",
+      "trim": "North",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/fdacd8a13627.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2024/jeep/compass/vernon/bc/68219404/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2024/jeep/compass/vernon/bc/68219404/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -409,13 +479,16 @@
       "odometer_km": 8127,
       "year": 2024,
       "make": "Jeep",
-      "model": "Compass North 4x4, Nav, USB-C",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
       "vin": "JF2GUHFC5RH243421",
       "stock": "PH24342",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/e307746e609b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71129861/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71129861/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -425,13 +498,16 @@
       "odometer_km": 30340,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Touring,CVT, AWD, Eyesight",
       "vin": "JF2GUADC8R8280795",
       "stock": "P828079",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/1ea6d6872754.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71295274/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71295274/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -441,14 +517,17 @@
       "odometer_km": 27849,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Touring,CVT, AWD, Eyesight",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC4RH267600",
       "stock": "PH26760",
       "color": "Grey",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/4a0f3c9639db.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71400574/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71400574/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -458,14 +537,17 @@
       "odometer_km": 32567,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Sport",
       "vin": "JF2GUHFC6RH264326",
       "stock": "PH26432",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/efed9055b04e.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71166561/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2024/subaru/crosstrek/vernon/bc/71166561/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -475,14 +557,17 @@
       "odometer_km": 5,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Sport",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra Preferred Pkg, Heated Leather Seats",
       "vin": "KMHLM4DG1SU011693",
       "stock": "ICOH011",
       "color": "Grey",
+      "trim": "Preferred Pkg",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/e712ac19ceb4.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2025/hyundai/elantra/vernon/bc/68986129/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2025/hyundai/elantra/vernon/bc/68986129/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -492,14 +577,17 @@
       "odometer_km": 6201,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra Preferred Pkg, Heated Leather Seats",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona Preferred Sport, AWD, Heated Seats",
       "vin": "KM8HDCA35SU242842",
       "stock": "ICOH242",
       "color": "White",
+      "trim": "Preferred Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/d8d0309e2357.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2025/hyundai/kona/vernon/bc/68986126/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2025/hyundai/kona/vernon/bc/68986126/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -509,14 +597,17 @@
       "odometer_km": 4945,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona Preferred Sport, AWD, Heated Seats",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
       "vin": "4S4BTHPD7S3185880",
       "stock": "HS46467",
       "color": "White",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/3ef3be005d21.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2025/subaru/outback/vernon/bc/71094401/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2025/subaru/outback/vernon/bc/71094401/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -526,14 +617,17 @@
       "odometer_km": 36581,
       "year": 2025,
       "make": "Subaru",
-      "model": "Outback Premier XT, AWD, 360 Cam, Eyesight",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Outback Wilderness, AWD, Eyesight Safety,Startex fabric",
       "vin": "4S4BTHTD7S3112272",
       "stock": "HS47210",
       "color": "Blue",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/cfb5f2cd9d4a.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2025/subaru/outback/vernon/bc/71305526/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2025/subaru/outback/vernon/bc/71305526/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -543,14 +637,17 @@
       "odometer_km": 65553,
       "year": 2025,
       "make": "Subaru",
-      "model": "Outback Wilderness, AWD, Eyesight Safety,Startex fabric",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis GV70 2.5T Prestige, AWD, Leather, NAV",
       "vin": "KMUMADTB6TU254230",
       "stock": "ICOLC25",
       "color": "Blue",
+      "trim": "2.5T Prestige",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/6627854e03e0.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/genesis/gv70/vernon/bc/70736855/?sale_class=used",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/genesis/gv70/vernon/bc/70736855/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -560,14 +657,17 @@
       "odometer_km": 2572,
       "year": 2026,
       "make": "Genesis",
-      "model": "GV70 2.5T Prestige, AWD, Leather, NAV",
-      "condition": "used"
+      "model": "GV70",
+      "condition": "used",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru BRZ tS",
       "vin": "JF1ZDBS18T9702537",
       "stock": "HS70253",
       "color": "Red",
+      "trim": "tS",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/c8506c247d13.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/brz/vernon/bc/71396690/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/brz/vernon/bc/71396690/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -577,14 +677,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "BRZ tS",
-      "condition": "new"
+      "model": "BRZ",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited Hybrid AWD, Eyesight, Leather seats",
       "vin": "JF2GUSND9T8261676",
       "stock": "HS26167",
       "color": "Grey",
+      "trim": "Limited Hybrid",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/584e2867c74d.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/70159073/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/70159073/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -594,14 +697,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited Hybrid AWD, Eyesight, Leather seats",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited Hybrid AWD, Eyesight, Leather seats",
       "vin": "JF2GUSNDXT8282343",
       "stock": "HS28234",
       "color": "Silver",
+      "trim": "Limited Hybrid",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/aa3812153dec.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/70822179/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/70822179/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -611,14 +717,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited Hybrid AWD, Eyesight, Leather seats",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited Hybrid AWD, Eyesight, Leather",
       "vin": "JF2GUSND1T8282019",
       "stock": "HS28201",
       "color": "Grey",
+      "trim": "Limited Hybrid",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/17fe257527a5.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/70822181/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/70822181/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -628,14 +737,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited Hybrid AWD, Eyesight, Leather",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
       "vin": "JF2GUSND0T8291066",
       "stock": "HS29106",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/9fb29f8bb546.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/71250740/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/71250740/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -645,14 +757,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Limited Hybrid",
       "vin": "JF2GUSND0T8288538",
       "stock": "HS28853",
       "color": "Yellow",
+      "trim": "Limited Hybrid",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3ea3464127a4.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/71250752/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/71250752/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -662,14 +777,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Limited Hybrid",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
       "vin": "JF2GUSND1T8282148",
       "stock": "HS28214",
       "color": "Brown",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/681d218e3632.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/71266611/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek-hybrid/vernon/bc/71266611/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -679,14 +797,17 @@
       "odometer_km": 131,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD Leather, Nav, Harmon Kardon",
       "vin": "JF2GUHNC5T8227311",
       "stock": "HS22731",
       "color": "Silver",
+      "trim": "Limited Leather",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/250a8e81188f.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/69058651/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/69058651/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -696,14 +817,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD Leather, Nav, Harmon Kardon",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD Eyesight Safety",
       "vin": "JF2GUHBC9T8260848",
       "stock": "HS26084",
       "color": "Brown",
+      "trim": "Convenience Eyesight Safety",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e99afe116505.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70028476/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70028476/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -713,14 +837,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD Eyesight Safety",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
       "vin": "JF2GUHFC0T8256861",
       "stock": "HS25686",
       "color": "White",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/2f02dab0bd17.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70103736/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70103736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -730,14 +857,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring, AWD, Heated Seats, Eyesight Safety",
       "vin": "JF2GUHDCXT8265506",
       "stock": "HS26550",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/7b2e15fe6b29.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70182268/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70182268/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -747,14 +877,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring, AWD, Heated Seats, Eyesight Safety",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
       "vin": "JF2GUHFC1T8268369",
       "stock": "HS26836",
       "color": "White",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/03208656026e.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70386032/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70386032/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -764,14 +897,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring,CVT, AWD, Eyesight",
       "vin": "JF2GUHDC6T8269875",
       "stock": "HS26987",
       "color": "Brown",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/da0fb9e83c25.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70422015/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70422015/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -781,14 +917,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring,CVT, AWD, Eyesight",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited",
       "vin": "JF2GUHNC3T8269864",
       "stock": "HS26986",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f5a4d260b5e3.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70422023/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70422023/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -798,14 +937,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC9T8279507",
       "stock": "HS27950",
       "color": "White",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/521e488f8e2d.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796817/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796817/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -815,14 +957,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring,CVT, AWD, Eyesight",
       "vin": "JF2GUHDCXT8282581",
       "stock": "HS28258",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/c8c0decb9e65.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796821/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796821/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -832,14 +977,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring,CVT, AWD, Eyesight",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring",
       "vin": "JF2GUHDC4T8280194",
       "stock": "HS28019",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3c7963f66bcd.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796822/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796822/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -849,14 +997,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
       "vin": "JF2GUHFC3T8279910",
       "stock": "HS27991",
       "color": "Black",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/35537f22e937.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796824/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70796824/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -866,14 +1017,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX, AWD, Eyesight safety, Sunroof",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience",
       "vin": "JF2GUHBC1T8280169",
       "stock": "HS28016",
       "color": "Blue",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/7ea39dad1aae.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70822180/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70822180/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -883,14 +1037,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC0T8280013",
       "stock": "HS28001",
       "color": "Silver",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f17975c67ada.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70822188/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70822188/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -900,14 +1057,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience",
       "vin": "JF2GUHBC2T8280309",
       "stock": "HS28030",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/49f724a2a71a.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70822191/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70822191/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -917,14 +1077,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited",
       "vin": "JF2GUHNCXT8282966",
       "stock": "HS28296",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/af4e6ae4dbd2.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70896291/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/70896291/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -934,14 +1097,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING",
       "vin": "JF2GUHDC0T8287742",
       "stock": "HS28774",
       "color": "Grey",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/4100dc385a38.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71119629/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71119629/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -951,14 +1117,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek TOURING",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC5T8289435",
       "stock": "HS28943",
       "color": "White",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3eacf2fd7025.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71216136/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71216136/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -968,14 +1137,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC4T8289149",
       "stock": "HS28914",
       "color": "Blue",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d31ee1d764fb.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71216141/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71216141/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -985,14 +1157,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC4T8289328",
       "stock": "HS28932",
       "color": "Grey",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/cfd398280214.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71216147/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71216147/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1002,14 +1177,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited",
       "vin": "JF2GUHNC0T8287903",
       "stock": "HS28790",
       "color": "Brown",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/9aee5995b555.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71250738/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71250738/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1019,14 +1197,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC9T8292290",
       "stock": "HS29229",
       "color": "Silver",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/68fd15d6f00b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71266618/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/crosstrek/vernon/bc/71266618/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1036,14 +1217,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD, Moonroof, Bronze accents",
       "vin": "JF2SLDHC8TH459466",
       "stock": "ICSC459",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/5e841bbe1e2b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/69688598/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/69688598/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1053,14 +1237,17 @@
       "odometer_km": 8900,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD, Moonroof, Bronze accents",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited, AWD, Heated Leather, Sunroof",
       "vin": "JF2SLDRC8TH464388",
       "stock": "HS46438",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/88ac63dcb404.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/69974254/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/69974254/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1070,14 +1257,17 @@
       "odometer_km": 945,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited, AWD, Heated Leather, Sunroof",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD1TH465453",
       "stock": "HS46545",
       "color": "Blue",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f7d0d6f6d7f1.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70159075/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70159075/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1087,14 +1277,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER, AWD, EYESIGHT",
       "vin": "JF2SLSTD6TH466047",
       "stock": "HS46604",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/fa8fd22d4fd6.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70242786/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70242786/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1104,14 +1297,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER, AWD, EYESIGHT",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited, AWD, Heated Leather, Sunroof",
       "vin": "JF2SLDRC3TH467960",
       "stock": "HS46796",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/155717640276.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70386029/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70386029/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1121,14 +1317,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited, AWD, Heated Leather, Sunroof",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier, Leather, Nav, AWD",
       "vin": "JF2SLDTC9TH468216",
       "stock": "HS46821",
       "color": "Green",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/435335fd88c0.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70422016/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70422016/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1138,14 +1337,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier, Leather, Nav, AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD, Moonroof, Bronze accents",
       "vin": "JF2SLDHC1TH468574",
       "stock": "HS46857",
       "color": "Green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/04e0595b74f9.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70422018/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70422018/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1155,14 +1357,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD, Moonroof, Bronze accents",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER with Eyesight",
       "vin": "JF2SLSTD9TH469041",
       "stock": "HS46904",
       "color": "Green",
+      "trim": "PREMIER with Eyesight",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3d9576d4af98.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70507344/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70507344/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1172,14 +1377,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER with Eyesight",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited, AWD, Heated Leather, Sunroof",
       "vin": "JF2SLDRC0TH469326",
       "stock": "HS46932",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/419ca237e452.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70507347/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70507347/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1189,14 +1397,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited, AWD, Heated Leather, Sunroof",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER, AWD, EYESIGHT",
       "vin": "JF2SLSTD1TH467610",
       "stock": "HS46761",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/59ff697f69ca.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70621600/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70621600/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1206,14 +1417,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER, AWD, EYESIGHT",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC5TH471243",
       "stock": "HS47124",
       "color": "Black",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/567c83351bc7.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70621601/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70621601/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1223,14 +1437,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD, Moonroof, Bronze accents",
       "vin": "JF2SLDHC5TH471879",
       "stock": "HS47187",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f8649ee28da4.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70796818/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70796818/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1240,14 +1457,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD, Moonroof, Bronze accents",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD, Moonroof, Bronze accents",
       "vin": "JF2SLDHC4TH471923",
       "stock": "HS47192",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ac47c26e3e86.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70796819/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70796819/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1257,14 +1477,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD, Moonroof, Bronze accents",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD4TH471716",
       "stock": "HS47171",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/847da3213c1b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822183/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822183/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1274,14 +1497,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
       "vin": "JF2SLDHC8TH472024",
       "stock": "HS47202",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/9adebfb64d1d.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822189/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822189/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1291,14 +1517,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
       "vin": "JF2SLDRC0TH471822",
       "stock": "HS47182",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/82245121ec25.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822190/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822190/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1308,14 +1537,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC9TH472006",
       "stock": "HS47200",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/23fa9cb634e6.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822193/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822193/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1325,14 +1557,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC9TH471986",
       "stock": "HS47198",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/0f4cec049e98.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822195/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822195/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1342,14 +1577,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD2TH471794",
       "stock": "HS47179",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/18091049c568.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822196/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822196/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1359,14 +1597,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
       "vin": "JF2SLDRC5TH471797",
       "stock": "HS47179",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/2bc6c9ee5622.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822207/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70822207/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1376,14 +1617,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC5TH471533",
       "stock": "HS47153",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/dbb1b6b386bf.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70896292/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/70896292/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1393,14 +1637,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTDXTH473602",
       "stock": "HS47360",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/1b1ca2f1fa40.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71053527/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71053527/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1410,14 +1657,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD2TH474565",
       "stock": "HS47456",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ac3fd4446993.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71079720/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71079720/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1427,14 +1677,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
       "vin": "JF2SLDHC6TH474547",
       "stock": "HS47454",
       "color": "Green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/09cf373af885.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71117572/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71117572/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1444,14 +1697,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
       "vin": "JF2SLDRC0TH469374",
       "stock": "HS46937",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/459120dcd839.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71117574/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71117574/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1461,14 +1717,17 @@
       "odometer_km": 339,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC4TH474617",
       "stock": "HS47461",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/c2ad299a0bd7.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71117575/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71117575/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1478,14 +1737,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
       "vin": "JF2SLDHCXTH474504",
       "stock": "HS47450",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/34f4b0fe85bd.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119630/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119630/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1495,14 +1757,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC1TH474818",
       "stock": "HS47481",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/c13be335f3e9.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119632/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119632/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1512,14 +1777,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTD3TH474543",
       "stock": "HS47454",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6d6ce9556cb3.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119635/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119635/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1529,14 +1797,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC5TH474738",
       "stock": "HS47473",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/381166b80f30.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119636/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71119636/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1546,14 +1817,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier",
       "vin": "JF2SLSTD1TH475349",
       "stock": "HS47534",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/45f90f8ec786.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71216134/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71216134/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1563,14 +1837,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester HYBRID PREMIER",
       "vin": "JF2SLSTDXTH474586",
       "stock": "HS47458",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/0f741c0457fb.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250739/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250739/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1580,14 +1857,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester HYBRID PREMIER",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC8TH475707",
       "stock": "HS47570",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/18b39200deac.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250742/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250742/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1597,14 +1877,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC2TH474647",
       "stock": "HS47464",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/1c0224101ba6.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250744/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250744/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1614,14 +1897,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC9TH474371",
       "stock": "HS47437",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e44e624ade5b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250745/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250745/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1631,14 +1917,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVENIENCE",
       "vin": "JF2SLDAC6TH474669",
       "stock": "HS47466",
       "color": "White",
+      "trim": "CONVENIENCE",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/64aebb933d51.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250746/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250746/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1648,14 +1937,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester CONVENIENCE",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier",
       "vin": "JF2SLSTD9TH477009",
       "stock": "HS47700",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/5cad08277e05.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250749/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71250749/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1665,14 +1957,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC0TH475067",
       "stock": "HS47506",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/9880dbc754ff.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266616/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266616/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1682,14 +1977,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited",
       "vin": "JF2SLDRC7TH476791",
       "stock": "HS47679",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/dda198ac420b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266620/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266620/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1699,14 +1997,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience",
       "vin": "JF2SLDAC7TH476916",
       "stock": "HS47691",
       "color": "White",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/315906288c04.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266623/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266623/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1716,14 +2017,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC8TH475186",
       "stock": "HS47518",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/50133fcfe30c.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266627/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71266627/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1733,14 +2037,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
       "vin": "JF2SLDHC2TH477008",
       "stock": "HS47700",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/97466cdd46b2.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71295533/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71295533/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1750,14 +2057,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
       "vin": "JF2SLDHC8TH477076",
       "stock": "HS47707",
       "color": "Green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e14da8200d5e.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71295534/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71295534/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1767,14 +2077,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport",
       "vin": "JF2SLDHC5TH477049",
       "stock": "HS47704",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ece1bd262951.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71295535/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/forester/vernon/bc/71295535/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1784,14 +2097,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Impreza Touring",
       "vin": "JF1GUAFC1T8291307",
       "stock": "HS29130",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a97fbfd66d06.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/impreza/vernon/bc/71250743/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/impreza/vernon/bc/71250743/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1801,14 +2117,17 @@
       "odometer_km": 127,
       "year": 2026,
       "make": "Subaru",
-      "model": "Impreza Touring",
-      "condition": "new"
+      "model": "Impreza",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT, AWD, Sunroof, Eyesight safety",
       "vin": "JF2BURHD3TY543522",
       "stock": "HS54352",
       "color": "Grey",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6aad5545a6f8.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/69974250/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/69974250/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1818,14 +2137,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT, AWD, Sunroof, Eyesight safety",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT, AWD, Sunroof, Eyesight safety",
       "vin": "JF2BURHD9TY548059",
       "stock": "HS54805",
       "color": "White",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/5691e39686ce.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70159068/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70159068/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1835,14 +2157,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT, AWD, Sunroof, Eyesight safety",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT, AWD, Sunroof, Eyesight safety",
       "vin": "JF2BURHDXTY555926",
       "stock": "HS55592",
       "color": "Green",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/fb8577adca73.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70386025/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70386025/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1852,14 +2177,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT, AWD, Sunroof, Eyesight safety",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT",
       "vin": "JF2BURHD8TY555388",
       "stock": "HS55538",
       "color": "Grey",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/421bd55d5540.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70386031/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70386031/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1869,14 +2197,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness, AWD, Eyesight Safety,Startex fabric",
       "vin": "JF2BURLD6TY561424",
       "stock": "HS56142",
       "color": "White",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/b27a5e4ff2f2.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70507348/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70507348/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1886,14 +2217,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness, AWD, Eyesight Safety,Startex fabric",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT",
       "vin": "JF2BURHD8TY576872",
       "stock": "HS57687",
       "color": "Grey",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/b55528da1dcd.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70796825/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70796825/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1903,14 +2237,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
       "vin": "JF2BURJD2TY576845",
       "stock": "HS57684",
       "color": "White",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/fd23225d3e4b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70796828/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70796828/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1920,14 +2257,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT, AWD, 360 Cam, Eyesight",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
       "vin": "JF2BURJD4TY576779",
       "stock": "HS57677",
       "color": "Grey",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/c39c57f8027f.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70822184/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/70822184/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1937,14 +2277,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT, AWD, 360 Cam, Eyesight",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness",
       "vin": "JF2BURLD8TY588673",
       "stock": "HS58867",
       "color": "Green",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/34b4a352fa8f.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71079722/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71079722/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1954,14 +2297,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT",
       "vin": "JF2BURHD9TY587864",
       "stock": "HS58786",
       "color": "Blue",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/cf5589ce2181.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71119637/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71119637/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1971,14 +2317,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness",
       "vin": "JF2BURLD8TY596675",
       "stock": "HS59667",
       "color": "Green",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/2f0ab270c4c1.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71216132/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71216132/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1988,14 +2337,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring",
       "vin": "JF2BUPCD7TY596123",
       "stock": "HS59612",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/933e95e01b99.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71216133/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71216133/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2005,14 +2357,17 @@
       "odometer_km": 3,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
       "vin": "JF2BURJD0TY588475",
       "stock": "HS58847",
       "color": "White",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/252257403da5.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250737/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250737/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2022,14 +2377,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT, AWD, 360 Cam, Eyesight",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring",
       "vin": "JF2BUPCD3TY588665",
       "stock": "HS58866",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/501484542016.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250741/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250741/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2039,14 +2397,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
       "vin": "JF2BURJD4TY588771",
       "stock": "HS58877",
       "color": "Grey",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/01ac916d949e.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250747/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250747/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2056,14 +2417,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT, AWD, 360 Cam, Eyesight",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness",
       "vin": "JF2BURLD7TY588552",
       "stock": "HS58855",
       "color": "Blue",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/868b8d3ef46e.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250748/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250748/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2073,14 +2437,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring",
       "vin": "JF2BUPCD9TY589478",
       "stock": "HS58947",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e9eb3ceb7359.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250750/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250750/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2090,14 +2457,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
       "vin": "JF2BURJD6TY587475",
       "stock": "HS58747",
       "color": "Black",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/8dabb965676f.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250751/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71250751/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2107,14 +2477,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT, AWD, 360 Cam, Eyesight",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring",
       "vin": "JF2BUPCD8TY596454",
       "stock": "HS59645",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d3e100820e73.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266614/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266614/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2124,14 +2497,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness",
       "vin": "JF2BURLD7TY596666",
       "stock": "HS59666",
       "color": "Grey",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/101fe9399998.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266617/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266617/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2141,14 +2517,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT",
       "vin": "JF2BURHD7TY594957",
       "stock": "HS59495",
       "color": "White",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d405f25d9f40.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266619/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266619/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2158,14 +2537,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring XT",
       "vin": "JF2BURJD4TY596658",
       "stock": "HS59665",
       "color": "White",
+      "trim": "Touring XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f8ed507334bf.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266622/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266622/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2175,14 +2557,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness",
       "vin": "JF2BURLD0TY596749",
       "stock": "HS59674",
       "color": "Blue",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a769a4a89def.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266628/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266628/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2192,14 +2577,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring XT",
       "vin": "JF2BURJD4TY596045",
       "stock": "HS59604",
       "color": "Grey",
+      "trim": "Touring XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/7bea30f96d3c.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266630/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266630/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2209,14 +2597,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring",
       "vin": "JF2BUPCD9TY596351",
       "stock": "HS59635",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/2ad481a8f484.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266631/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266631/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2226,14 +2617,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT",
       "vin": "JF2BURHD7TY596210",
       "stock": "HS59621",
       "color": "Blue",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/4f4d0bcdbd6b.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266632/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/outback/vernon/bc/71266632/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2243,8 +2637,10 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Uncharted Premium",
@@ -2261,13 +2657,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Uncharted Premium",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX GT, I-Activ AWD, Heated Seats, LED Fog Lamps",
       "vin": "JF1VBAV60T8810372",
       "stock": "HS81037",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/599df83db168.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/wrx/vernon/bc/70636085/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/wrx/vernon/bc/70636085/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2277,14 +2676,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX GT, I-Activ AWD, Heated Seats, LED Fog Lamps",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS",
       "vin": "JF1VBAZ61T9813480",
       "stock": "HS81348",
       "color": "Blue",
+      "trim": "tS",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f6b300a7037f.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/wrx/vernon/bc/71119628/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/wrx/vernon/bc/71119628/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2294,14 +2696,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX tS",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport-tech,2.4L turbo, 6-speed manual",
       "vin": "JF1VBAN68T9815183",
       "stock": "HS81518",
       "color": "Grey",
+      "trim": "Sport-tech",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/52f07b3c28ef.html",
       "source_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/wrx/vernon/bc/71266621/?sale_class=new",
       "dealer_url": "https://www.hilltopsubaru.com/vehicles/2026/subaru/wrx/vernon/bc/71266621/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2311,8 +2716,10 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX Sport-tech,2.4L turbo, 6-speed manual",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Touring",
@@ -2329,7 +2736,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Touring",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker PREMIER",
@@ -2346,7 +2755,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker PREMIER",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Uncharted GT",
@@ -2363,7 +2774,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Uncharted GT",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Uncharted GT",
@@ -2380,7 +2793,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Uncharted GT",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Uncharted GT",
@@ -2397,7 +2812,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Uncharted GT",
-      "condition": "new"
+      "condition": "new",
+      "city": "Vernon",
+      "province": "BC"
     }
   ]
 }
