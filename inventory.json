@@ -1,6 +1,6 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-10-26T03:26:06",
+  "generated_at": "2026-10-26T03:41:25",
   "vehicle_count": 179,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -839,7 +839,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 44600.0,
+      "price": 42495.0,
       "price_currency": "CAD"
     },
     {
