@@ -1,6 +1,6 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-10-25T18:34:49",
+  "generated_at": "2026-10-26T03:26:06",
   "vehicle_count": 179,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -207,7 +207,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 21995.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
