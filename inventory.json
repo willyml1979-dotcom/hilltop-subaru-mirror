@@ -1,7 +1,7 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-10-26T03:41:25",
-  "vehicle_count": 179,
+  "generated_at": "2026-11-16T19:54:38",
+  "vehicle_count": 184,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -17,25 +17,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 RAM 2500 Crew Cab ST",
+      "name": "2014 RAM 2500 Tradesman ST 4x4 Crew Cab Hemi",
       "vin": "3C6TR5CTXEG225140",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/22953f27a021.html",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/952fccf32652.html",
       "year": 2014,
       "make": "RAM",
       "model": "2500",
       "condition": "used",
       "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Nissan Juke SL AWD, Moonroof, 360-degree camera",
-      "vin": "JN8AF5MV9FT555630",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/404278e5085c.html",
-      "year": 2015,
-      "make": "Nissan",
-      "model": "Juke",
-      "condition": "used",
-      "price": 7895.0,
       "price_currency": "CAD"
     },
     {
@@ -46,18 +35,18 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 16887.0,
+      "price": 15595.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Toyota 4Runner SR5",
-      "vin": "JTEBU5JRXF5263434",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/f2f23c4d4e6b.html",
+      "name": "2015 Subaru Forester i, Fully Symmetrical AWD, Rear vision Backup Camera",
+      "vin": "JF2SJCBC8FG559084",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/551593ac5969.html",
       "year": 2015,
-      "make": "Toyota",
-      "model": "4Runner",
+      "make": "Subaru",
+      "model": "Forester",
       "condition": "used",
-      "price": 29995.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -83,6 +72,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Subaru Forester i Touring w/Tech Pkg",
+      "vin": "JF2SJEMC5HH572722",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/cd3c7f394e2c.html",
+      "year": 2017,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 21595.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Subaru Outback Touring, AWD, Heated Seats, Sunroof, Cloth",
       "vin": "4S4BSAHC8H3423857",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/876093e7078d.html",
@@ -90,18 +90,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 20995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Chevrolet Silverado 1500 Custom",
-      "vin": "3GCUKPEC0JG139940",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/a279b3969c9f.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 17900.0,
+      "price": 18988.0,
       "price_currency": "CAD"
     },
     {
@@ -116,15 +105,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Honda CR-V LX",
-      "vin": "2HKRW2H23JH136389",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/05cab001ca1c.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used"
-    },
-    {
       "name": "2018 Hyundai Santa Fe Sport Ultimate2.0t, AWD, leather, heated seats",
       "vin": "5XYZUDLA1JG551427",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/97d7960528af.html",
@@ -136,7 +116,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Hyundai Sonata GL",
+      "name": "2018 Hyundai Sonata GL, SEDAN, FWD GREAT CONDITION,",
       "vin": "5NPE24AF0JH626520",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/070e938a64ca.html",
       "year": 2018,
@@ -163,18 +143,40 @@
       "make": "Mazda",
       "model": "CX-3",
       "condition": "used",
-      "price": 24995.0,
+      "price": 22787.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen Tiguan Comfortline",
+      "name": "2018 Subaru Forester Touring AWD, Heated Seats & Wheel",
+      "vin": "JF2SJEJC5JH424662",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/52763cb4b114.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Subaru Forester Limited, AWD, Heated Leather, Sunroof",
+      "vin": "JF2SJESC0JH493256",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/cea20f8c1643.html",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 14987.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Volkswagen Tiguan Comfortline, 4motion AWD, 2.0l turbo, Great Condition",
       "vin": "3VV2B7AX3JM091434",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/f306cdab24ec.html",
       "year": 2018,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 19995.0,
+      "price": 18787.0,
       "price_currency": "CAD"
     },
     {
@@ -186,6 +188,39 @@
       "model": "1500",
       "condition": "used",
       "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Toyota 4Runner SR5, 4WD, Fog Lights, Power driver seat",
+      "vin": "JTEBU5JR7K5663896",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/90c919b6203c.html",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 53995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Acura MDX Elite, AWD, moonroof, power fold mirrors, walk away locks",
+      "vin": "5J8YD4H86LL803294",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/a96c2d65bc2b.html",
+      "year": 2020,
+      "make": "Acura",
+      "model": "MDX",
+      "condition": "used",
+      "price": 37595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 BMW 3 Series Sedan 330i xDrive",
+      "vin": "3MW5R7J03L8B29151",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/b7dfd187439a.html",
+      "year": 2020,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 25988.0,
       "price_currency": "CAD"
     },
     {
@@ -211,9 +246,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Outback Premier, Leather, Nav, AWD",
-      "vin": "4S4BTDPC8L3199501",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/2887926ecef8.html",
+      "name": "2020 Subaru Outback Limited, AWD, Heated Leather, Sunroof",
+      "vin": "4S4BTDNC1L3203147",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/5826bc82e669.html",
       "year": 2020,
       "make": "Subaru",
       "model": "Outback",
@@ -222,25 +257,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota Highlander Hybrid Hybrid Limited",
-      "vin": "5TDEBRCH4MS033902",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/5c0cbea4d7a7.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Highlander Hybrid Hybrid",
+      "name": "2022 Acura MDX A-Spec SH-AWD, 3.5l, 3 row, Black Leather",
+      "vin": "5J8YE1H0XNL805641",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/63a17b8c441b.html",
+      "year": 2022,
+      "make": "Acura",
+      "model": "MDX",
       "condition": "used",
-      "price": 41495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota Venza Limited, AWD, Heated Leather, Sunroof",
-      "vin": "JTEAAAAH7MJ074829",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/7d01f84cb9ee.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Venza",
-      "condition": "used",
-      "price": 33999.0,
+      "price": 46788.0,
       "price_currency": "CAD"
     },
     {
@@ -251,11 +275,11 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 23911.0,
+      "price": 22987.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Big Horn",
+      "name": "2022 RAM 1500 Big Horn 4x4 Crew Cab HEMI 5'7 Box",
       "vin": "1C6RRFFG9NN466256",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/eba7943b5dd2.html",
       "year": 2022,
@@ -266,6 +290,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Subaru Impreza Touring,CVT, AWD, Eyesight",
+      "vin": "4S3GKAV69N3608861",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/2c9191093d7e.html",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Impreza",
+      "condition": "used",
+      "price": 23995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Subaru WRX Sport-tech,2.4L turbo, 6-speed manual",
       "vin": "JF1VBAL65N9002678",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/3734d158d70b.html",
@@ -273,7 +308,18 @@
       "make": "Subaru",
       "model": "WRX",
       "condition": "used",
-      "price": 33995.0,
+      "price": 30875.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Toyota 4Runner SR5, 4WD, 2.4L, 8 inch Touchscreen, Cloth Seating",
+      "vin": "JTERU5JR4N5989187",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/10088451ed7f.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 48995.0,
       "price_currency": "CAD"
     },
     {
@@ -288,7 +334,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Tiguan Highline R-Line",
+      "name": "2022 Volkswagen Tiguan Highline R-Line AWD Remote Start",
       "vin": "3VV4B7AX6NM061309",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/04c3934913ad.html",
       "year": 2022,
@@ -296,17 +342,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volvo XC40 R-Design",
-      "vin": "YV4162UM0N2783776",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/d49d1db3bcaf.html",
-      "year": 2022,
-      "make": "Volvo",
-      "model": "XC40",
-      "condition": "used",
-      "price": 31991.0,
       "price_currency": "CAD"
     },
     {
@@ -321,25 +356,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford Expedition King Ranch, 4x4, Leather, 8 pass",
-      "vin": "1FMJU1P85PEA32011",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/3cb8870e42d1.html",
+      "name": "2023 Honda CR-V Sport, moonroof , 18 inch Aluminum Wheels",
+      "vin": "2HKRS4H59PH119462",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/b87f610a93bc.html",
       "year": 2023,
-      "make": "Ford",
-      "model": "Expedition",
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 74995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Compass Trailhawk 4x4Selec-Terrain, Heated Seats",
-      "vin": "3C4NJDDN0PT557407",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ca7623a00415.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 25390.0,
+      "price": 36495.0,
       "price_currency": "CAD"
     },
     {
@@ -365,18 +389,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Seltos EX AWD CVT Apple CarPlay® & Android Auto",
-      "vin": "KNDEUCAA6P7450448",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/41d2da0bc6bb.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue Platinum",
+      "name": "2023 Nissan Rogue Platinum Edition 4x4, Fully loaded, Low Km",
       "vin": "JN8BT3DDXPW309257",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/9d73d260c7ee.html",
       "year": 2023,
@@ -387,9 +400,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 2500 Limited 4x4 Crew Cab 6'4 Box",
+      "name": "2023 RAM 2500 Limited 4x4 Crew Cab Diesel 6'4 Box",
       "vin": "3C6UR5SL9PG556221",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/1cd9c025d98c.html",
+      "year": 2023,
+      "make": "RAM",
+      "model": "2500",
+      "condition": "used",
+      "price": 69995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 RAM 2500 Laramie, 4X4, DIESEL LOW KMS, HEATED/COOLED LEATHER",
+      "vin": "3C6UR5FL2PG587885",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/541e5f71a40c.html",
       "year": 2023,
       "make": "RAM",
       "model": "2500",
@@ -420,69 +444,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Compass North 4x4, Nav, USB-C",
-      "vin": "3C4NJDBN9RT589973",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/fdacd8a13627.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Subaru Impreza Convenience",
-      "vin": "JF1GUABC0R8291846",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/d8d107cec8b0.html",
+      "name": "2024 Subaru Crosstrek Limited, AWD, Heated Leather, Sunroof",
+      "vin": "JF2GUHNC5RH229150",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/75fc058567f2.html",
       "year": 2024,
       "make": "Subaru",
-      "model": "Impreza",
+      "model": "Crosstrek",
       "condition": "used",
-      "price": 23995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 GMC Yukon XL Denali",
-      "vin": "1GKS2JR89SR367841",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/8d085e263f28.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Yukon XL",
-      "condition": "used",
-      "price": 89995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Elantra Preferred Pkg, Heated Leather Seats",
-      "vin": "KMHLM4DG1SU011693",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/e712ac19ceb4.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Kona Preferred Sport, AWD, Heated Seats",
-      "vin": "KM8HDCA35SU242842",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/d8d0309e2357.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 29987.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
-      "vin": "4S4BTHPD7S3185880",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/3ef3be005d21.html",
-      "year": 2025,
+      "name": "2024 Subaru Crosstrek Limited, AWD, Heated Leather, Sunroof",
+      "vin": "JF2GUHNC5RH310181",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/8c6091cc49a3.html",
+      "year": 2024,
       "make": "Subaru",
-      "model": "Outback",
+      "model": "Crosstrek",
       "condition": "used",
-      "price": 43995.0,
+      "price": 38440.0,
       "price_currency": "CAD"
     },
     {
@@ -497,6 +477,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Toyota 4Runner SR5, 4WD, 2.4l Cloth seating, 8 inch touch screen",
+      "vin": "JTEVA5BR4S5056262",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ddc11f48814d.html",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 60898.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Volkswagen Golf R Black Edition, AWD, Acrophobic Exhaust",
       "vin": "WVWHB7CD4SW251253",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/8c3c9c68776d.html",
@@ -504,7 +495,7 @@
       "make": "Volkswagen",
       "model": "Golf R",
       "condition": "used",
-      "price": 53995.0,
+      "price": 52498.0,
       "price_currency": "CAD"
     },
     {
@@ -516,6 +507,72 @@
       "model": "GV70",
       "condition": "used",
       "price": 68495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Onyx Heated Seats & Wireless Phone Charging Pad",
+      "vin": "JF2GUHFCXT8242790",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/8c082c402912.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek Onyx Heated Seats & Wireless Phone Charging Pad",
+      "condition": "used",
+      "price": 35595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Limited, AWD, Heated Leather, low kms, factory warranty",
+      "vin": "JF2GUHNC1T8251492",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/037a498e8814.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Crosstrek Limited, AWD, Heated Leather, low kms, factory warranty",
+      "vin": "JF2GUHNC2T8252439",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/27595f809479.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Sport  - Demo Model! AWD, Moonroof, Nav",
+      "vin": "JF2SLDHC8TH459466",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/e870dc9c24a8.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 41998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Limited, AWD, Heated Leather, low kms, factory warranty",
+      "vin": "JF2SLDRC0TH461646",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/748c11912d44.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 44595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Premier AWD, Heated Leather, Sunroof & more!",
+      "vin": "JF2SLDTC9TH461413",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/6b2f0722d7dc.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
