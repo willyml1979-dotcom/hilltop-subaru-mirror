@@ -1,7 +1,7 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-11-16T19:54:38",
-  "vehicle_count": 184,
+  "generated_at": "2026-11-16T20:27:39",
+  "vehicle_count": 173,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -609,7 +609,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
+      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD Sunroof & Heated Leather Seats",
       "vin": "JF2GUSND0T8288538",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3ea3464127a4.html",
       "year": 2026,
@@ -617,28 +617,6 @@
       "model": "Crosstrek Hybrid Hybrid",
       "condition": "new",
       "price": 43618.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
-      "vin": "JF2GUSND0T8297661",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/59dc44fe3393.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 42990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited",
-      "vin": "JF2GUSND7T8297690",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/1f0e88fe3ac0.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 42990.0,
       "price_currency": "CAD"
     },
     {
@@ -741,17 +719,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Convenience",
-      "vin": "JF2GUHBC2T8280309",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/49f724a2a71a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 33618.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Limited",
       "vin": "JF2GUHNCXT8282966",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/af4e6ae4dbd2.html",
@@ -775,17 +742,6 @@
     },
     {
       "name": "2026 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFC5T8289435",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3eacf2fd7025.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 38118.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx",
       "vin": "JF2GUHFC4T8289149",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d31ee1d764fb.html",
       "year": 2026,
@@ -793,110 +749,6 @@
       "model": "Crosstrek",
       "condition": "new",
       "price": 38118.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Limited",
-      "vin": "JF2GUHNC0T8287903",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/9aee5995b555.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 41118.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek ONYX",
-      "vin": "JF2GUHFC2T8296990",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/2e8e6bd336f0.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 38218.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Touring",
-      "vin": "JF2GUHDC7T8297572",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6c9973758d88.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36718.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFC7T8297665",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a1cd60005bf6.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Convenience",
-      "vin": "JF2GUHBC9T8296829",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/710c4ace5aa3.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 32990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFCXT8242790",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/360a8be290fb.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Onyx",
-      "vin": "JF2GUHFC8T8243694",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a87b99dfc4fa.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Limited",
-      "vin": "JF2GUHNC1T8251492",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/23d349be1a91.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 40490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Limited",
-      "vin": "JF2GUHNC2T8252439",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/bc1b7f4d4eac.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Subaru Forester Sport AWD, Moonroof, Bronze accents",
-      "vin": "JF2SLDHC8TH459466",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/5e841bbe1e2b.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42495.0,
       "price_currency": "CAD"
     },
     {
@@ -1142,17 +994,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDC4TH474617",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/c2ad299a0bd7.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41590.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Sport",
       "vin": "JF2SLDHCXTH474504",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/34f4b0fe85bd.html",
@@ -1172,17 +1013,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 48718.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier",
-      "vin": "JF2SLSTD3TH474543",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6d6ce9556cb3.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51090.0,
       "price_currency": "CAD"
     },
     {
@@ -1241,28 +1071,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Convenience",
-      "vin": "JF2SLDAC6TH474669",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/64aebb933d51.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 37318.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDC0TH475067",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/9880dbc754ff.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42218.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited",
       "vin": "JF2SLDRC7TH476791",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/dda198ac420b.html",
@@ -1271,17 +1079,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46718.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDC8TH475186",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/50133fcfe30c.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42218.0,
       "price_currency": "CAD"
     },
     {
@@ -1318,7 +1115,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Limited",
+      "name": "2026 Subaru Forester Limited, AWD, Heated Leather, Sunroof",
       "vin": "JF2SLDRC4TH477154",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/fbe34a2de561.html",
       "year": 2026,
@@ -1329,7 +1126,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Sport",
+      "name": "2026 Subaru Forester Sport AWD, Sunroof, Nav, Heated Seats",
       "vin": "JF2SLDHC1TH477596",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/bb1c4e3f821b.html",
       "year": 2026,
@@ -1340,7 +1137,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Premier",
+      "name": "2026 Subaru Forester Premier AWD, Heated Leather, Sunroof & more!",
       "vin": "JF2SLDTC2TH472317",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/06acb0727571.html",
       "year": 2026,
@@ -1351,7 +1148,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Touring",
+      "name": "2026 Subaru Forester Touring AWD, Heated Seats & Wheel",
       "vin": "JF2SLDDC5TH476523",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/af4901c5e0cc.html",
       "year": 2026,
@@ -1362,7 +1159,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Hybrid Premier",
+      "name": "2026 Subaru Forester Hybrid Premier AWD W/Heated & Ventilated Seats",
       "vin": "JF2SLSTD1TH472385",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ecf0564a95ec.html",
       "year": 2026,
@@ -1373,23 +1170,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Hybrid Premier",
-      "vin": "JF2SLSTD2TH472508",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/67088eba6ae7.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51818.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Limited",
+      "name": "2026 Subaru Forester Limited AWD Heated Leather Seats & Steering Wheel",
       "vin": "JF2SLDRC6TH477219",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/b84d7281a625.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester",
+      "model": "Forester Limited AWD Heated Leather Seats & Steering Wheel",
       "condition": "new",
       "price": 46818.0,
       "price_currency": "CAD"
@@ -1417,90 +1203,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Hybrid Premier",
-      "vin": "JF2SLSTD6TH471202",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/43a93fe091eb.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDC0TH459600",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/5a0b955f6bde.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Limited",
-      "vin": "JF2SLDRC0TH461646",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6fe5e4a5da2d.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 44595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Premier",
-      "vin": "JF2SLDTC9TH461413",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/1ddfed27be90.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 45995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Convenience",
-      "vin": "JF2SLDAC5TH461430",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a0df25f8ca24.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDC0TH461749",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/74318cb3e159.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Convenience",
-      "vin": "JF2SLDAC6TH460187",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3e75187a48e8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Subaru Forester PREMIER",
-      "vin": "JF2SLDTC5TH480721",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/0a0f34544f7a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 48090.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited",
       "vin": "JF2SLDRC9TH480762",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e1ec24a65054.html",
@@ -1509,17 +1211,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDC3TH480649",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/4e69bd860895.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41590.0,
       "price_currency": "CAD"
     },
     {
@@ -1534,17 +1225,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester CONVENIENCE",
-      "vin": "JF2SLDAC1TH480685",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/4ff70b8a06b9.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 36590.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDC6TH480659",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6261c2f686c5.html",
@@ -1553,39 +1233,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 41590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDC0TH480608",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d3624fc53f5e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester PREMIER",
-      "vin": "JF2SLDTC5TH480623",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/350a557c428b.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 48090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester CONVENIENCE",
-      "vin": "JF2SLDAC1TH480816",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/b69188c5830f.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 36590.0,
       "price_currency": "CAD"
     },
     {
@@ -1611,14 +1258,157 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Impreza Touring",
-      "vin": "JF1GUAFC1T8291307",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a97fbfd66d06.html",
+      "name": "2026 Subaru Forester Convenience",
+      "vin": "JF2SLDACXTH478563",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f1aaa4405824.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Impreza",
+      "model": "Forester",
       "condition": "new",
-      "price": 34448.0,
+      "price": 37318.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Premier AWD, Heated Leather, Sunroof & more!",
+      "vin": "JF2SLDTC7TH477836",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/02885b9931ae.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 48818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Touring",
+      "vin": "JF2SLDDC9TH478372",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/3bf9a660a18c.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 41590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Premier AWD, Heated Leather, Sunroof & more!",
+      "vin": "JF2SLDTC3TH477834",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e33dff0023a1.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 48818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Convenience",
+      "vin": "JF2SLDAC1TH480816",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/1b80bb3c5bc8.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 37318.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Touring AWD, Heated Seats & Wheel",
+      "vin": "JF2SLDDC3TH480649",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e103f89a6905.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 42218.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Touring AWD, Heated Seats & Wheel",
+      "vin": "JF2SLDDC0TH480608",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/2e1d8df001a0.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 42218.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Premier AWD, Heated Leather, Sunroof & more!",
+      "vin": "JF2SLDTC5TH480721",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a12867a25394.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 48818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Convenience",
+      "vin": "JF2SLDAC1TH480685",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6d9dc5987b05.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 37318.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Premier AWD, Heated Leather, Sunroof & more!",
+      "vin": "JF2SLDTC5TH480623",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/eecf20b2954b.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 48818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Sport AWD, Sunroof, Nav, Heated Seats & Wheel",
+      "vin": "JF2SLDHC9TH477961",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/df21d2c08958.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 44818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD2TH481306",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d2b38b30e3e7.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51090.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester HYBRID PREMIER",
+      "vin": "JF2SLSTD9TH483490",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/69f212bb3444.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 51090.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Convenience",
+      "vin": "JF2SLDAC6TH480567",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/f26147f4aecc.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "new",
+      "price": 36590.0,
       "price_currency": "CAD"
     },
     {
@@ -1658,17 +1448,6 @@
       "name": "2026 Subaru Outback Wilderness, AWD, Eyesight Safety,Startex fabric",
       "vin": "JF2BURLD6TY561424",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/b27a5e4ff2f2.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 52218.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness",
-      "vin": "JF2BURLD8TY588673",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/34b4a352fa8f.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
@@ -1744,17 +1523,6 @@
     },
     {
       "name": "2026 Subaru Outback Touring",
-      "vin": "JF2BUPCD9TY589478",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e9eb3ceb7359.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 43290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Touring",
       "vin": "JF2BUPCD8TY596454",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d3e100820e73.html",
       "year": 2026,
@@ -1820,7 +1588,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Touring",
+      "name": "2026 Subaru Outback Touring AWD, Heated Seats & Wheel, touchscreen",
       "vin": "JF2BUPCD4TY591672",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/065715818f7b.html",
       "year": 2026,
@@ -1828,17 +1596,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 44018.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Touring XT",
-      "vin": "JF2BURJD9TY612952",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/8ab84648c644.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 53590.0,
       "price_currency": "CAD"
     },
     {
@@ -1875,17 +1632,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Wilderness",
-      "vin": "JF2BURLD0TY614179",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/be40b4299c83.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 51590.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Limited XT",
       "vin": "JF2BURHD8TY613807",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/245b0cd5534b.html",
@@ -1894,17 +1640,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 50590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness",
-      "vin": "JF2BURLD3TY601300",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/95d93a2b71a3.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 51590.0,
       "price_currency": "CAD"
     },
     {
@@ -1919,12 +1654,67 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Uncharted LR",
+      "name": "2026 Subaru Outback Touring AWD, Heated Seats & Wheel",
+      "vin": "JF2BUPCD6TY601098",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/bf01b7b7a031.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 44018.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Premier XT",
+      "vin": "JF2BURJD9TY612952",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/464019ff2ac2.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 54318.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD6TY611870",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/0b07429b1077.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 52318.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Wilderness",
+      "vin": "JF2BURLD4TY616551",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/05c132554b02.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 51590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Touring",
+      "vin": "JF2BUPCD1TY616270",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/452589072aed.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new",
+      "price": 43290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Uncharted LR FWD Fast Charge w/ 14 Inch Touchscreen",
       "vin": "JTMABABE4TJ025723",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/eb124e4c61b3.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Uncharted LR",
+      "model": "Uncharted LR FWD Fast Charge w/ 14 Inch Touchscreen",
       "condition": "new",
       "price": 50118.0,
       "price_currency": "CAD"
@@ -1974,6 +1764,94 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Subaru Crosstrek Onyx, AWD, Sunroof, Dual climate, 11.6 Inch Touchscreen",
+      "vin": "JF2GUHFCXV8202423",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ede317c0d468.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 37890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Convenience",
+      "vin": "JF2GUHBC3V8204083",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/b88b2ef34468.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 33290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Touring AWD, Heated Seats & Wheel",
+      "vin": "JF2GUHDC1V8200448",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/b075be095856.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 36490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Hybrid Limited",
+      "vin": "JF2GUSND3V8200634",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a62a84768870.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "price": 42990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx, AWD, Sunroof, Dual climate, 11.6 Inch Touchscreen",
+      "vin": "JF2GUHFC5V8200532",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/467af4774258.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 37890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Sport Hybrid",
+      "vin": "JF2GUSGD4V8212711",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/4b84813240c5.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 39590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Crosstrek Onyx",
+      "vin": "JF2GUHFC7V8200435",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/7b05752fda7c.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "new",
+      "price": 37890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Solterra PREMIER",
+      "vin": "JTMADAFC4VJ036856",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/6601503170c3.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Solterra",
+      "condition": "new",
+      "price": 56690.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Subaru Trailseeker PREMIER",
       "vin": "JTMBGAHC7VY002507",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/4a33680f4dc6.html",
@@ -1985,20 +1863,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Trailseeker Touring",
-      "vin": "JTMBGAHC5VY002831",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d15eb47e948d.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Trailseeker Touring",
-      "condition": "new",
-      "price": 52690.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Subaru Trailseeker Limited",
-      "vin": "JTMBGAHC9VY002511",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/707a9685f518.html",
+      "vin": "JTMBGAHC7VY004306",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/9b6c65863137.html",
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Limited",
@@ -2007,14 +1874,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Subaru Uncharted Sport",
-      "vin": "JTMAAAAE0VJ030800",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ab8dad389529.html",
+      "name": "2027 Subaru Trailseeker Touring",
+      "vin": "JTMBGAHC4VY004392",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/5527a81f0917.html",
       "year": 2027,
       "make": "Subaru",
-      "model": "Uncharted Sport",
+      "model": "Trailseeker Touring",
+      "condition": "new",
+      "price": 52690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Uncharted Sport, Dual Motor AWD, NACS Charging port",
+      "vin": "JTMAAAAE0VJ030800",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/1a71ab85dc71.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted Sport, Dual Motor AWD, NACS Charging port",
       "condition": "new",
       "price": 50690.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Subaru Uncharted GT",
+      "vin": "JTMAAAAE8VJ035467",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/a3bd11c5f9c1.html",
+      "year": 2027,
+      "make": "Subaru",
+      "model": "Uncharted GT",
+      "condition": "new",
+      "price": 52690.0,
       "price_currency": "CAD"
     }
   ]
