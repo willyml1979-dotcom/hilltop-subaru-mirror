@@ -1,6 +1,6 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-11-18T13:30:13",
+  "generated_at": "2026-11-18T13:38:37",
   "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1106,7 +1106,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Sport",
+      "name": "2026 Subaru Forester Sport, AWD, Nav, Sunroof & Heated Leather",
       "vin": "JF2SLDHC8TH477076",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/e14da8200d5e.html",
       "year": 2026,
@@ -1117,7 +1117,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Sport",
+      "name": "2026 Subaru Forester Sport AWD, Nav, Sunroof, Heated Seats & Wheel",
       "vin": "JF2SLDHC5TH477049",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ece1bd262951.html",
       "year": 2026,
@@ -1205,14 +1205,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Limited",
+      "name": "2026 Subaru Forester Limited, AWD, Heated Leather, Panoramic Roof",
       "vin": "JF2SLDRC3TH472155",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ae0259dbba37.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 46090.0,
+      "price": 46818.0,
       "price_currency": "CAD"
     },
     {
@@ -1436,18 +1436,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Limited XT",
+      "name": "2026 Subaru Outback Limited XT Heated Leather, NAV, 2.4l Turbo",
       "vin": "JF2BURHD9TY587864",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/cf5589ce2181.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 50590.0,
+      "price": 51218.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Touring",
+      "name": "2026 Subaru Outback Touring AWD, Heated Seats & Wheel",
       "vin": "JF2BUPCD7TY596123",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/933e95e01b99.html",
       "year": 2026,
@@ -1458,36 +1458,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
+      "name": "2026 Subaru Outback Premier XT",
       "vin": "JF2BURJD0TY588475",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/252257403da5.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 54218.0,
+      "price": 54318.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Touring",
+      "name": "2026 Subaru Outback Touring AWD, Heated Seats & Wheel",
       "vin": "JF2BUPCD3TY588665",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/501484542016.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 43918.0,
+      "price": 44018.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Premier XT, AWD, 360 Cam, Eyesight",
+      "name": "2026 Subaru Outback Premier XT",
       "vin": "JF2BURJD4TY588771",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/01ac916d949e.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 54218.0,
+      "price": 54318.0,
       "price_currency": "CAD"
     },
     {
@@ -1498,11 +1498,11 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 51590.0,
+      "price": 52218.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Touring",
+      "name": "2026 Subaru Outback Touring AWD, Heated Seats & Wheel",
       "vin": "JF2BUPCD8TY596454",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d3e100820e73.html",
       "year": 2026,
@@ -1513,7 +1513,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Wilderness",
+      "name": "2026 Subaru Outback Wilderness AWD Sunroof, Nav, EyeSight Technology",
       "vin": "JF2BURLD7TY596666",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/101fe9399998.html",
       "year": 2026,
@@ -1524,7 +1524,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Limited XT",
+      "name": "2026 Subaru Outback Limited XT, AWD, Moonroof, Side Roof Rails, Power rear gate",
       "vin": "JF2BURHD7TY594957",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/d405f25d9f40.html",
       "year": 2026,
@@ -1612,25 +1612,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Limited XT",
+      "name": "2026 Subaru Outback Limited XT Heated Leather, NAV, 2.4l Turbo",
       "vin": "JF2BURHD8TY613807",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/245b0cd5534b.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 50590.0,
+      "price": 51218.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Touring",
+      "name": "2026 Subaru Outback Touring AWD, Heated Seats & Wheel",
       "vin": "JF2BUPCD5TY613761",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/21663ac64001.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 43290.0,
+      "price": 44018.0,
       "price_currency": "CAD"
     },
     {
@@ -1733,14 +1733,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru WRX Sport",
+      "name": "2026 Subaru WRX Sport AWD, Sunroof, Nav, Heated Seats & Wheel",
       "vin": "JF1VBAH62T9816969",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/0a6df6601945.html",
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
       "condition": "new",
-      "price": 40790.0,
+      "price": 41518.0,
       "price_currency": "CAD"
     },
     {
