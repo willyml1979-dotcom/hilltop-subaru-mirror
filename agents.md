@@ -7,7 +7,7 @@ Hilltop Subaru is a  dealership in Vernon. This site is an AI-readable mirror of
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ and https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ (about 175 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ and https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/new/ (about 171 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/llms.txt
