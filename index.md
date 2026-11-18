@@ -1,6 +1,6 @@
 # Hilltop Subaru
 
- dealership in Vernon. AI-readable inventory mirror, about 173 vehicles.
+ dealership in Vernon. AI-readable inventory mirror, about 175 vehicles.
 
 - Official website: https://www.hilltopsubaru.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/

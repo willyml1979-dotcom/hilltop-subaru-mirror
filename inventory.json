@@ -1,19 +1,19 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-11-16T20:27:39",
-  "vehicle_count": 173,
+  "generated_at": "2026-11-17T18:41:56",
+  "vehicle_count": 175,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2010 Ford F-150 XLT",
+      "name": "2010 Ford F-150 XLT Supercab 4x4 Power Seat, Sirius",
       "vin": "1FTEX1E83AFB52150",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/ca747b3a4a29.html",
       "year": 2010,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 17995.0,
+      "price": 14878.0,
       "price_currency": "CAD"
     },
     {
@@ -28,14 +28,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Subaru Forester 2.5i AWD, Bluetooth, backup camera, auto",
-      "vin": "JF2SJCBC2FH580104",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/90335a4cb55d.html",
-      "year": 2015,
+      "name": "2014 Subaru Forester XT Touring",
+      "vin": "JF2SJHLC0EH442300",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/32c0c1cdd93d.html",
+      "year": 2014,
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 15595.0,
+      "price": 14995.0,
       "price_currency": "CAD"
     },
     {
@@ -50,18 +50,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Chevrolet Volt Premier",
+      "name": "2017 Chevrolet Volt Premier Hybrid W/ HEATED SEATS & WIRELESS CHARGING",
       "vin": "1G1RB6S5XHU110788",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/910481bbc42a.html",
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Volt Premier",
+      "model": "Volt Premier Hybrid W/ HEATED SEATS & WIRELESS CHARGING",
       "condition": "used",
-      "price": 17795.0,
+      "price": 17797.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Subaru Crosstrek Touring",
+      "name": "2017 Subaru Crosstrek Touring AWD W/ Heated Fr Seats",
       "vin": "JF2GPABC8HH212201",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/bf38d0f72df8.html",
       "year": 2017,
@@ -94,14 +94,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Ford F-350 Super Duty LARIAT",
+      "name": "2018 Ford F-350 Super Duty LARIAT, DIESEL, 4x4, Leather",
       "vin": "1FT8W3BT3JEC72542",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/893a0fab21cc.html",
       "year": 2018,
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 47995.0,
+      "price": 47989.0,
       "price_currency": "CAD"
     },
     {
@@ -127,13 +127,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Grand Cherokee Laredo",
+      "name": "2018 Jeep Grand Cherokee Laredo 4x4 V6 Apple Car Play",
       "vin": "1C4RJFAG7JC373104",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/fab5d829ac77.html",
       "year": 2018,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "price": 16995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2018 Mazda CX-3 GT, I-Activ AWD, Heated Seats, LED Fog Lamps",
@@ -180,14 +182,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 1500 Rebel",
+      "name": "2019 RAM 1500 Rebel Quad Cab 4x4 Hemi 6'4 Box Remote",
       "vin": "1C6SRFET4KN572254",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/9964e363c37c.html",
       "year": 2019,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 31995.0,
+      "price": 31478.0,
       "price_currency": "CAD"
     },
     {
@@ -224,31 +226,42 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Kona Ultimate",
+      "name": "2020 Ford Escape Titanium, AWD with Co-Pilot360 & Apple Carplay",
+      "vin": "1FMCU9J93LUA17905",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/830239466a16.html",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Hyundai Kona Ultimate2.0t, AWD, leather, heated seats",
       "vin": "KM8K5CA53LU431611",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/979970d263f7.html",
       "year": 2020,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 19995.0,
+      "price": 18978.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Jeep Cherokee Trailhawk Elite",
+      "name": "2020 Jeep Cherokee Trailhawk Elite  3.2L Pentastar,4x4",
       "vin": "1C4PJMBX9LD632862",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/529562343441.html",
       "year": 2020,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 19995.0,
+      "price": 17888.0,
       "price_currency": "CAD"
     },
     {
       "name": "2020 Subaru Outback Limited, AWD, Heated Leather, Sunroof",
       "vin": "4S4BTDNC1L3203147",
-      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/5826bc82e669.html",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/e2e4886822d7.html",
       "year": 2020,
       "make": "Subaru",
       "model": "Outback",
@@ -374,7 +387,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 49799.0,
+      "price": 46987.0,
       "price_currency": "CAD"
     },
     {
@@ -385,7 +398,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 19995.0,
+      "price": 19888.0,
       "price_currency": "CAD"
     },
     {
@@ -422,14 +435,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford F-150 XLT",
+      "name": "2024 Ford F-150 XLT 4WD SuperCrew 5.5' Box",
       "vin": "1FTEW3LP2RFB10704",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/9915eaa750c7.html",
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 49995.0,
+      "price": 49778.0,
       "price_currency": "CAD"
     },
     {
@@ -440,7 +453,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 21995.0,
+      "price": 19987.0,
       "price_currency": "CAD"
     },
     {
@@ -466,6 +479,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Subaru Impreza RS, AWD, Blindspot Monitoring, Eyesight, Steering Response",
+      "vin": "JF1GUHJCXR8269105",
+      "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/bdfd57387e2f.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Impreza",
+      "condition": "used",
+      "price": 35290.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Subaru Outback Wilderness, AWD, Eyesight Safety,Startex fabric",
       "vin": "4S4BTHTD7S3112272",
       "url": "https://willyml1979-dotcom.github.io/hilltop-subaru-mirror/used/cfb5f2cd9d4a.html",
@@ -473,7 +497,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 41995.0,
+      "price": 41495.0,
       "price_currency": "CAD"
     },
     {
@@ -506,7 +530,7 @@
       "make": "Genesis",
       "model": "GV70",
       "condition": "used",
-      "price": 68495.0,
+      "price": 67495.0,
       "price_currency": "CAD"
     },
     {
