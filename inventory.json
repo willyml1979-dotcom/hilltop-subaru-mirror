@@ -1,6 +1,6 @@
 {
   "dealership": "Hilltop Subaru",
-  "generated_at": "2026-11-18T05:01:39",
+  "generated_at": "2026-11-18T13:30:13",
   "vehicle_count": 171,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -409,7 +409,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 29995.0,
+      "price": 29989.0,
       "price_currency": "CAD"
     },
     {
